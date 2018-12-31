@@ -13,3 +13,5 @@ Flight mode: Use M to toggle between flight mode and normal mode. In flight mode
 Read more about the WFC algorithm [here](https://github.com/mxgmn/WaveFunctionCollapse).
 
 Play the game on Itch.io: [https://marian42.itch.io/wfc](https://marian42.itch.io/wfc)
+
+中文https://buzzorange.com/techorange/2018/12/28/wave-collapse-function/
